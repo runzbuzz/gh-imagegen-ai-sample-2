@@ -1,4 +1,7 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: ImageGen AI
 description: Bring your creative visions to life with ImageGen, where your imagination sets the boundaries. Our advanced AI technology effortlessly transforms your descriptions into high-quality, captivating images that reflect your creative intent.
