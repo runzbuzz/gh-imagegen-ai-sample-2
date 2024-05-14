@@ -6,9 +6,3 @@ plugins:
 title: ImageGen AI
 description: Bring your creative visions to life with ImageGen, where your imagination sets the boundaries. Our advanced AI technology effortlessly transforms your descriptions into high-quality, captivating images that reflect your creative intent.
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default2"
