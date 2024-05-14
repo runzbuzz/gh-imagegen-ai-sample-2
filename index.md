@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ImageGen AI
 
 ![ImageGen AI Logo!](./logo.webp "ImageGen AI Logo")
